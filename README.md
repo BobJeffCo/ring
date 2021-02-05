@@ -1,2 +1,2 @@
-# thicc
+# ring
 bjc files
